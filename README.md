@@ -29,5 +29,5 @@ The Decision Tree clasffier gave an accuracy of 99.97% and auc of 99.99%
 The XGBoost  gave an accuracy of 93.96% and auc of 99.99%
 Finally, RandomForest gave an accuracy of 99.96% and auc of 99.99%
 The best performing model from the metrics is the Decision Tree. It has highest accuracy and auc scores combined.
-#Files
-Attached is the python file labeled Credit_Score_Predict_Group_3 and the dataset used labelled as archive.zip
+# Files
+The dataset used is in the file labeled as archive.zip and the python file in Credit_Score_Predict_Group_3
