@@ -23,10 +23,7 @@ The dataset was explored using heatmap,barchat , boxplot,scatter plot,count plot
 # Data Cleaning
 The unamed :0 which is column [0] was dropped from the dataset since it does not have any much impact on the prediction of the model
 The standard Scaler was used to transform the dataset in order to do away with extreme values that could hinder the perfomance of the model
-# Model Result
-The KNeighbours classier gave an accuracy of 93.30% and auc of 54.73%. 
-The Decision Tree clasffier gave an accuracy of 99.97% and auc of 99.99%
-The XGBoost  gave an accuracy of 93.96% and auc of 99.99%
+
 Finally, RandomForest gave an accuracy of 99.96% and auc of 99.99%
 The best performing model from the metrics is the Decision Tree. It has highest accuracy and auc scores combined.
 # Files
